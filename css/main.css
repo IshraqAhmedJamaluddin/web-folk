@@ -115,11 +115,11 @@ p {
 }
 
 .bg2 {
-    background: url('/Images/Cover_2.jpg');
+    background: url('../Images/Cover_2.jpg');
     background-size: cover;
 }
 .bg3 {
-    background: url('/Images/coverPage2.PNG');
+    background: url('../Images/coverPage2.PNG');
     background-size: cover;
 }
 .form-group {
